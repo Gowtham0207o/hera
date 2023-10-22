@@ -18,7 +18,6 @@
                       <li class="menu-item"><a href="service.php">Services</a>
                       <li class="menu-item menu-item-has-children"><a href="#">Projects</a>
                           <ul class="sub-menu">
-                              <li class="menu-item"><a href="about.php">Ready to buy</a></li>
                               <li class="menu-item"><a href="project-completed.php">Completed projects</a></li>
                               <li class="menu-item"><a href="project-ongoing.php">Ongoing projects</a></li>
 
@@ -73,7 +72,7 @@
                           </ul>
                       </div>
                       <div class="copyright">
-                          <p>Mrittik 2023. All Rights Reserved</p>
+                          <p>Hera contruction 2023. All Rights Reserved</p>
                       </div>
                   </div>
               </div>

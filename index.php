@@ -35,7 +35,11 @@ python online course
     <div id="mode_switcher">
         <span><i class="bi bi-moon-fill"></i></span>
     </div>
-
+    <div id="whatsapp">
+    <a href="https://wa.me/9944624724" target="_blank">
+        <span><i class="bi bi-whatsapp"></i></span>
+</a>
+    </div>
     <!-- Cursor Effect -->
     <div class="pointer bnz-pointer" id="bnz-pointer"></div>
 
@@ -54,12 +58,12 @@ python online course
                             <h6>01</h6>
                             <img src="assets/img/icon_box/favicon_big.svg" alt="Icon Box" class="dark">
                             <img src="assets/img/icon_box/favicon_big_white.svg" alt="Icon Box" class="light">
-                            <h4 class="text-white"><a href="service-details.html">Residential Construction</a></h4>
+                            <h4 class="text-white"><a href="service.php">Residential Construction</a></h4>
                             <p class="text-gray-600">Build your dream home with our expert team, delivering top-notch
                                 residential construction services in Coimbatore, offering personalized and thoughtful
                                 designs that transform your vision into a captivating reality.</p>
                             <div class="arrow_effect">
-                                <a href="service-details.html"><span class="crossline1"></span><span
+                                <a href="service.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -69,13 +73,13 @@ python online course
                             <h6>02</h6>
                             <img src="assets/img/icon_box/favicon_big.svg" alt="Icon Box" class="dark">
                             <img src="assets/img/icon_box/favicon_big_white.svg" alt="Icon Box" class="light">
-                            <h4 class="text-white"><a href="service-details.html">Architectural<br> Design</a></h4>
+                            <h4 class="text-white"><a href="service.php">Architectural<br> Design</a></h4>
                             <p class="text-gray-600">Unlock the full potential of your project with our expert
                                 architects in Coimbatore. From concept to reality, we create exceptional spaces that
                                 blend creativity and functionality seamlessly. Your vision, our expertise - a perfect
                                 combination.</p>
                             <div class="arrow_effect">
-                                <a href="service-details.html"><span class="crossline1"></span><span
+                                <a href="service.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -85,12 +89,12 @@ python online course
                             <h6>03</h6>
                             <img src="assets/img/icon_box/favicon_big.svg" alt="Icon Box" class="dark">
                             <img src="assets/img/icon_box/favicon_big_white.svg" alt="Icon Box" class="light">
-                            <h4 class="text-white"><a href="service-details.html">Commercial Construction</a></h4>
+                            <h4 class="text-white"><a href="service.php">Commercial Construction</a></h4>
                             <p class="text-gray-600"> Elevate your business with functional and impressive commercial
                                 spaces, crafted by our experienced construction specialists, delivering innovative and
                                 functional designs for commercial spaces that leave a lasting impression.</p>
                             <div class="arrow_effect">
-                                <a href="service-details.html"><span class="crossline1"></span><span
+                                <a href="service.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -164,7 +168,7 @@ python online course
                                 </div>
                             </div>
                             <div class="btn_group" data-aos="fade-down" data-aos-duration="1000">
-                                <a href="about.html" class="btn gray">Read More</a>
+                                <a href="about.php" class="btn gray">Read More</a>
                             </div>
                         </div>
 
@@ -487,12 +491,12 @@ python online course
                             <div class="blog_content">
                                 <h2 class="post-count">01</h2>
 
-                                <h5><a href="blog-details.html" class="text-white">Expert Team</a></h5>
+                                <h5><a href="about.php" class="text-white">Expert Team</a></h5>
                                 <p> Our team of architects, engineers, designers, and skilled laborers possesses
                                     extensive experience in the construction industry. They are well-versed in the
                                     latest construction techniques and trends, ensuring the best possible outcomes for
                                     your projects.</p>
-                                <div class="details_link"><a href="blog-details.html"><span class="link_text">More
+                                <div class="details_link"><a href="about.php"><span class="link_text">More
                                             Details</span> <span class="link_icon"><span class="line"></span> <span
                                                 class="circle"></span><span class="dot"></span></span></a></div>
                             </div>
@@ -504,11 +508,11 @@ python online course
                             <div class="blog_content">
                                 <h2 class="post-count">02</h2>
 
-                                <h5><a href="blog-details.html" class="text-white">Best Quality</a></h5>
+                                <h5><a href="about.php" class="text-white">Best Quality</a></h5>
                                 <p>We source materials from trusted suppliers, ensuring that your building stands the
                                     test of time. Our commitment to using premium materials reflects in the durability
                                     and excellence of our constructions.</p>
-                                <div class="details_link"><a href="blog-details.html"><span class="link_text">More
+                                <div class="details_link"><a href="about.php"><span class="link_text">More
                                             Details</span> <span class="link_icon"><span class="line"></span> <span
                                                 class="circle"></span><span class="dot"></span></span></a></div>
                             </div>
@@ -520,11 +524,11 @@ python online course
                             <div class="blog_content">
                                 <h2 class="post-count">03</h2>
 
-                                <h5><a href="blog-details.html" class="text-white">Delivery Timing</a></h5>
+                                <h5><a href="about.php" class="text-white">Delivery Timing</a></h5>
                                 <p>At Hera Construction, we understand the value of time. Our streamlined processes and
                                     efficient project management enable us to deliver projects on schedule, without
                                     compromising on quality.</p>
-                                <div class="details_link"><a href="blog-details.html"><span class="link_text">More
+                                <div class="details_link"><a href="about.php"><span class="link_text">More
                                             Details</span> <span class="link_icon"><span class="line"></span> <span
                                                 class="circle"></span><span class="dot"></span></span></a></div>
                             </div>

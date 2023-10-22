@@ -29,7 +29,7 @@
                 </div>
 
                 <!-- Clients Logo -->
-                <div class="partner_flex">
+                <!-- <div class="partner_flex">
                     <div class="partner_content" data-aos="fade-up" data-aos-duration="500">
                         <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/5.svg"
                             alt="img">
@@ -60,7 +60,7 @@
                         <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/33.svg"
                             alt="img">
                     </div>
-                </div>
+                </div> -->
             </div>
 
             <!-- Section Grid Lines -->

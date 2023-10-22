@@ -33,7 +33,11 @@ include 'libs/load.php';
     <div id="mode_switcher">
         <span><i class="bi bi-moon-fill"></i></span>
     </div>
-
+    <div id="whatsapp">
+    <a href="https://wa.me/9944624724" target="_blank">
+        <span><i class="bi bi-whatsapp"></i></span>
+</a>
+    </div>
     <!-- Cursor Effect -->
     <div class="pointer bnz-pointer" id="bnz-pointer"></div>
 
@@ -55,7 +59,7 @@ include 'libs/load.php';
 Welcome to Hera Construction, a leading construction company in Coimbatore, specializing in both residential and commercial building solutions. With a focus on excellence and customer satisfaction, we bring your dream projects to life with our top-notch residential construction services and innovative commercial building solutions. Our team of skilled professionals is dedicated to delivering superior craftsmanship and timely project completion. Trust us to be your reliable partner in transforming your ideas into stunning realities.</p>
                     </div>
                     <div class="has_line"></div>
-                    <img src="assets/img/bg/about_bg.jpg" alt="">
+                    <img src="assets/img/bg/bg-immg.jpg" alt="">
                 </div>
 
                 <div class="mission_bottom_part">
@@ -105,7 +109,7 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                                 <div class="funfact_content">
                                     <p>Design Drawing</p>
                                     <div class="d-flex align-items-center">
-                                        <h2 class="fun-number">120</h2>
+                                        <h2 class="fun-number">3000</h2>
                                     </div>
                                 </div>
                             </div>
@@ -125,9 +129,9 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                                     <img src="assets/img/fact-3.png" alt="img">
                                 </div>
                                 <div class="funfact_content">
-                                    <p>Design Award</p>
+                                    <p>Happy clients</p>
                                     <div class="d-flex align-items-center">
-                                        <h2 class="fun-number">15</h2>
+                                        <h2 class="fun-number">160</h2><span>+</span>
                                     </div>
                                 </div>
                             </div>
@@ -136,9 +140,9 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                                     <img src="assets/img/fact-4.png" alt="img">
                                 </div>
                                 <div class="funfact_content">
-                                    <p>Project Running</p>
+                                    <p>Ongoing Project</p>
                                     <div class="d-flex align-items-center">
-                                        <h2 class="fun-number">62</h2>
+                                        <h2 class="fun-number">16</h2><span>+</span>
                                     </div>
                                 </div>
                             </div>
@@ -154,13 +158,12 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                     <div class="col-lg-4" data-aos="fade-up" data-aos-duration="500">
                         <div class="icon_box">
                             <h6>01</h6>
-                            <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/icon_box/d1.svg"
+                            <img src="assets/img/icon_box/favicon_big.svg"
                                 alt="Icon Box">
-                            <h4 class="text-white"><a href="service-1.html">Urban Design</a></h4>
-                            <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                architecture, master planning, urban design, interior architecture.</p>
+                            <h4 class="text-white"><a href="contact.php">RESIDENTIAL CONSTRUCTION</a></h4>
+                            <p class="text-gray-600">Experience the finest residential construction services in Coimbatore with our expert team. Create your dream home with personalized designs that turn your vision into reality</p>
                             <div class="arrow_effect">
-                                <a href="service-1.html"><span class="crossline1"></span><span
+                                <a href="contact.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -168,13 +171,12 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                     <div class="col-lg-4" data-aos="fade-up" data-aos-duration="700">
                         <div class="icon_box">
                             <h6>02</h6>
-                            <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/icon_box/d1.svg"
+                            <img src="assets/img/icon_box/favicon_big.svg"
                                 alt="Icon Box">
-                            <h4 class="text-white"><a href="service-1.html">Interior Design</a></h4>
-                            <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                architecture, master planning, urban design, interior architecture.</p>
+                            <h4 class="text-white"><a href="contact.php">ARCHITECTURAL DESIGN</a></h4>
+                            <p class="text-gray-600">Discover the expertise of our skilled architects in Coimbatore to elevate your project. From ideation to fruition, we craft remarkable spaces that harmonize creativity and utility effortlessly. Your vision meets our skill - the ultimate synergy.</p>
                             <div class="arrow_effect">
-                                <a href="service-1.html"><span class="crossline1"></span><span
+                                <a href="contact.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -182,13 +184,12 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                     <div class="col-lg-4" data-aos="fade-up" data-aos-duration="900">
                         <div class="icon_box">
                             <h6>03</h6>
-                            <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/icon_box/d1.svg"
+                            <img src="assets/img/icon_box/favicon_big.svg"
                                 alt="Icon Box">
-                            <h4 class="text-white"><a href="service-1.html">Landscape Design</a></h4>
-                            <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                architecture, master planning, urban design, interior architecture.</p>
+                            <h4 class="text-white"><a href="contact.php">COMMERCIAL CONSTRUCTION</a></h4>
+                            <p class="text-gray-600">Transform your business with expertly crafted, innovative commercial spaces in Coimbatore. Our experienced construction specialists deliver functional designs that make a lasting impression.</p>
                             <div class="arrow_effect">
-                                <a href="service-1.html"><span class="crossline1"></span><span
+                                <a href="contact.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -196,13 +197,12 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                     <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1100">
                         <div class="icon_box">
                             <h6>04</h6>
-                            <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/icon_box/d1.svg"
+                            <img src="assets/img/icon_box/favicon_big.svg"
                                 alt="Icon Box">
-                            <h4 class="text-white"><a href="service-1.html">Landscape Design</a></h4>
-                            <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                architecture, master planning, urban design, interior architecture.</p>
+                            <h4 class="text-white"><a href="contact.php">INTERIOR DESIGN</a></h4>
+                            <p class="text-gray-600">Revitalize your spaces with our skilled interior designers in Coimbatore. From concept to execution, we create captivating interiors that blend functionality and aesthetics seamlessly.</p>
                             <div class="arrow_effect">
-                                <a href="service-1.html"><span class="crossline1"></span><span
+                                <a href="contact.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -210,13 +210,12 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                     <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1300">
                         <div class="icon_box">
                             <h6>05</h6>
-                            <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/icon_box/d1.svg"
+                            <img src="assets/img/icon_box/favicon_big.svg"
                                 alt="Icon Box">
-                            <h4 class="text-white"><a href="service-1.html">Urban Design</a></h4>
-                            <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                architecture, master planning, urban design, interior architecture.</p>
+                            <h4 class="text-white"><a href="contact.php">RENOVATION WORKS</a></h4>
+                            <p class="text-gray-600">Renew your spaces with our proficient renovation services in Coimbatore. Our team revitalizes interiors with a seamless blend of creativity and functionality, from concept to completion.</p>
                             <div class="arrow_effect">
-                                <a href="service-1.html"><span class="crossline1"></span><span
+                                <a href="contact.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>
@@ -224,13 +223,12 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                     <div class="col-lg-4" data-aos="fade-up" data-aos-duration="1500">
                         <div class="icon_box">
                             <h6>06</h6>
-                            <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/icon_box/d1.svg"
+                            <img src="assets/img/icon_box/favicon_big.svg"
                                 alt="Icon Box">
-                            <h4 class="text-white"><a href="service-1.html">Interior Design</a></h4>
-                            <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                architecture, master planning, urban design, interior architecture.</p>
+                            <h4 class="text-white"><a href="contact.php">PROJECT CONSULTING</a></h4>
+                            <p class="text-gray-600">Elevate your projects with our Coimbatore-based consulting experts. From inception to realization, we offer insightful guidance, enhancing projects with a perfect fusion of expertise and vision.</p>
                             <div class="arrow_effect">
-                                <a href="service-1.html"><span class="crossline1"></span><span
+                                <a href="contact.php"><span class="crossline1"></span><span
                                         class="crossline2"></span></a>
                             </div>
                         </div>

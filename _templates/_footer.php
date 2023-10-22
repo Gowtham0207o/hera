@@ -46,7 +46,8 @@
                             
                              <div class="copyright">
                                  <p>Hera construction 2023. All Rights Reserved</p>
-                                 <p>Designed and developed by <a href="http://gowtham.selfmade.one">Gowtham</a></p>
+                                 <p class="mb-1" style="color:biege;">site developed by <a href="https://gowtham.selfmade.one/">Gowtham</a>Designed by<a href="https://nikil.selfmade.one/">Nikil</a></p>
+
                              </div>
                          </div>
                      </div>
@@ -68,9 +69,6 @@
      </div>
  </footer>
 
- <div class="totop">
-     <a href="#">UP</a>
- </div>
 
  <!-- Section Grid Lines -->
  <ul class="grid_lines d-none d-md-flex justify-content-between">

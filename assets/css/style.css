@@ -20028,6 +20028,29 @@ iframe, object, embed, iframe, object, iframe, video {
   justify-content: center;
   animation: rotateSwitcher 5s infinite linear;
 }
+/* Preloader End */
+#whatsapp {
+  position: fixed;
+  right: 20px;
+  bottom: calc(100vh / 8);
+  cursor: pointer;
+  z-index: 9999;
+}
+
+#whatsapp span {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1px solid #ffffff;
+  font-size: 40px;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: rotateSwitcher 5s infinite linear;
+}
 
 @keyframes rotateSwitcher {
   0% {

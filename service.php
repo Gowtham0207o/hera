@@ -44,7 +44,11 @@ include 'libs/load.php';
     <div id="mode_switcher">
         <span><i class="bi bi-moon-fill"></i></span>
     </div>
-
+    <div id="whatsapp">
+    <a href="https://wa.me/9944624724" target="_blank">
+        <span><i class="bi bi-whatsapp"></i></span>
+</a>
+    </div>
     <!-- Cursor Effect -->
     <div class="pointer bnz-pointer" id="bnz-pointer"></div>
     <?php
@@ -74,9 +78,8 @@ load_template("_header");
                             <img src="assets/img/icon_box/bg-1.jpg" alt="img" class="post-bg">
                             <div class="icon_box_inner">
                                 <img src="assets/img/icon_box/1.png" alt="Icon Box">
-                                <h4 class="text-white"><a href="service-1.html">Residential Construction</a></h4>
-                                <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                    architecture, master planning, urban design, interior architecture.</p>
+                                <h4 class="text-white"><a href="service-1.html">RESIDENTIAL CONSTRUCTION</a></h4>
+                                <p class="text-gray-600">Experience the finest residential construction services in Coimbatore with our expert team. Create your dream home with personalized designs that turn your vision into reality</p>
                                 <div class="arrow_effect">
                                     <a href="service-1.html"><span class="crossline1"></span><span
                                             class="crossline2"></span></a>
@@ -89,9 +92,8 @@ load_template("_header");
                             <img src="assets/img/icon_box/bg-2.jpg" alt="img" class="post-bg">
                             <div class="icon_box_inner">
                                 <img src="assets/img/icon_box/2.png" alt="Icon Box">
-                                <h4 class="text-white"><a href="service-1.html">Interior Design</a></h4>
-                                <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                    architecture, master planning, urban design, interior architecture.</p>
+                                <h4 class="text-white"><a href="service-1.html">ARCHITECTURAL DESIGN</a></h4>
+                                <p class="text-gray-600">Discover the expertise of our skilled architects in Coimbatore to elevate your project. From ideation to fruition, we craft remarkable spaces that harmonize creativity and utility effortlessly. Your vision meets our skill - the ultimate synergy</p>
                                 <div class="arrow_effect">
                                     <a href="service-1.html"><span class="crossline1"></span><span
                                             class="crossline2"></span></a>
@@ -104,9 +106,8 @@ load_template("_header");
                             <img src="assets/img/icon_box/bg-3.jpg" alt="img" class="post-bg">
                             <div class="icon_box_inner">
                                 <img src="assets/img/icon_box/3.png" alt="Icon Box">
-                                <h4 class="text-white"><a href="service-1.html">Landscape Design</a></h4>
-                                <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                    architecture, master planning, urban design, interior architecture.</p>
+                                <h4 class="text-white"><a href="service-1.html">COMMERCIAL CONSTRUCTION</a></h4>
+                                <p class="text-gray-600">Enhance your business with impactful and functional commercial spaces, meticulously fashioned by our adept construction specialists. We provide inventive and practical designs for commercial spaces that create a memorable impact.</p>
                                 <div class="arrow_effect">
                                     <a href="service-1.html"><span class="crossline1"></span><span
                                             class="crossline2"></span></a>
@@ -119,9 +120,8 @@ load_template("_header");
                             <img src="assets/img/icon_box/bg-4.jpg" alt="img" class="post-bg">
                             <div class="icon_box_inner">
                                 <img src="assets/img/icon_box/4.png" alt="Icon Box">
-                                <h4 class="text-white"><a href="service-1.html">Industrial Design</a></h4>
-                                <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                    architecture, master planning, urban design, interior architecture.</p>
+                                <h4 class="text-white"><a href="service-1.html">ALL TYPE OF RENOVATION</a></h4>
+                                <p class="text-gray-600">Renew your spaces with our proficient renovation services in Coimbatore. Our team revitalizes interiors with a seamless blend of creativity and functionality, from concept to completion</p>
                                 <div class="arrow_effect">
                                     <a href="service-1.html"><span class="crossline1"></span><span
                                             class="crossline2"></span></a>
@@ -134,9 +134,8 @@ load_template("_header");
                             <img src="assets/img/icon_box/bg-5.jpg" alt="img" class="post-bg">
                             <div class="icon_box_inner">
                                 <img src="assets/img/icon_box/5.png" alt="Icon Box">
-                                <h4 class="text-white"><a href="service-1.html">3D Modeling</a></h4>
-                                <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                    architecture, master planning, urban design, interior architecture.</p>
+                                <h4 class="text-white"><a href="service-1.html">INTERIOR DESIGN</a></h4>
+                                <p class="text-gray-600">Revitalize your spaces with our skilled interior designers in Coimbatore. From concept to execution, we create captivating interiors that blend functionality and aesthetics seamlessly.</p>
                                 <div class="arrow_effect">
                                     <a href="service-1.html"><span class="crossline1"></span><span
                                             class="crossline2"></span></a>
@@ -149,9 +148,8 @@ load_template("_header");
                             <img src="assets/img/icon_box/bg-6.jpg" alt="img" class="post-bg">
                             <div class="icon_box_inner">
                                 <img src="assets/img/icon_box/6.png" alt="Icon Box">
-                                <h4 class="text-white"><a href="service-1.html">Blueprint Design</a></h4>
-                                <p class="text-gray-600">Mrittik Architects is a full-service design firm providing
-                                    architecture, master planning, urban design, interior architecture.</p>
+                                <h4 class="text-white"><a href="service-1.html">PROJECT CONSULTING</a></h4>
+                                <p class="text-gray-600">Elevate your projects with our Coimbatore-based consulting experts. From inception to realization, we offer insightful guidance, enhancing projects with a perfect fusion of expertise and vision.</p>
                                 <div class="arrow_effect">
                                     <a href="service-1.html"><span class="crossline1"></span><span
                                             class="crossline2"></span></a>
@@ -274,21 +272,14 @@ load_template("_header");
                     <div class="row justify-content-center">
                         <div class="col-lg-4 pe-lg-4">
                             <div class="section-header">
-                                <h3 class="text-white text-uppercase border-line">ARCHITECTURE IS WHERE WE BELONG</h3>
+                                <h3 class="text-white text-uppercase border-line">Residential Building Specialists</h3>
                             </div>
                         </div>
                         <div class="col-lg-6 ps-lg-4">
                             <div class="mission_content">
-                                <p>Mrittik Architects is a full-service design firm providing architecture, master
-                                    planning, urban design, interior architecture, space planning and programming. Our
-                                    portfolio of completed work includes highly acclaimed and award-winning projects for
-                                    clients.</p>
-                                <p>Mrittik Architects is a full-service design firm providing architecture, master
-                                    planning, urban design, interior architecture, space planning and programming. Our
-                                    portfolio of completed work includes highly acclaimed and award-winning projects for
-                                    clients.</p>
-                                <p>Mrittik Architects is a full-service design firm providing architecture, master
-                                    planning, urban design</p>
+                            <p>Hera Construction excels in the art of residential building, making us the top choice for homeowners in Coimbatore. With 8 years of experience, we have perfected our skills in delivering exceptional residential projects, adhering to the highest standards of quality and craftsmanship. Our team of expert architects and designers collaborates closely with clients, ensuring personalized designs that reflect their unique vision.</p>
+                                <p>From conceptualization to completion, our focus on innovation and aesthetics sets us apart. As a trusted construction company in Coimbatore, we prioritize using premium materials and the latest construction techniques to guarantee durability and sustainability in every home we build. Whether it's a cozy family home or a luxurious villa, Hera Construction turns dreams into reality, one residential masterpiece at a time.</p>
+                                
                             </div>
                         </div>
                     </div>
@@ -296,55 +287,7 @@ load_template("_header");
             </div>
         </section>
 
-        <!-- Contact -->
-        <section class="partners in-service bg-dark-200">
-            <div class="container">
-                <!-- Clients Logo -->
-                <div class="partner_flex">
-                    <div class="partner_content" data-aos="fade-up" data-aos-duration="500">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/5.svg"
-                            alt="img">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/55.svg"
-                            alt="img">
-                    </div>
-                    <div class="partner_content" data-aos="fade-up" data-aos-duration="700">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/2.svg"
-                            alt="img">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/22.svg"
-                            alt="img">
-                    </div>
-                    <div class="partner_content" data-aos="fade-up" data-aos-duration="900">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/4.svg"
-                            alt="img">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/44.svg"
-                            alt="img">
-                    </div>
-                    <div class="partner_content" data-aos="fade-up" data-aos-duration="1100">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/1.svg"
-                            alt="img">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/11.svg"
-                            alt="img">
-                    </div>
-                    <div class="partner_content" data-aos="fade-up" data-aos-duration="1300">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/3.svg"
-                            alt="img">
-                        <img src="https://wpthemebooster.com/demo/themeforest/html/mrittik/assets/img/partner/33.svg"
-                            alt="img">
-                    </div>
-                </div>
-            </div>
-
-            <!-- Section Grid Lines -->
-            <ul class="grid_lines d-none d-md-flex justify-content-between">
-                <li class="grid_line"></li>
-                <li class="grid_line"></li>
-                <li class="grid_line"></li>
-                <li class="grid_line"></li>
-                <li class="grid_line"></li>
-                <li class="grid_line"></li>
-                <li class="grid_line"></li>
-            </ul>
-        </section>
+     
 
     </main>
 

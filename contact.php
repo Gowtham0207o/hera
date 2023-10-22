@@ -35,7 +35,12 @@ include 'libs/load.php';
         <!-- Color Mode Switcher -->
 		<div id="mode_switcher">
 			<span><i class="bi bi-moon-fill"></i></span>	
-		</div>        
+		</div>  
+        <div id="whatsapp">
+    <a href="https://wa.me/9944624724" target="_blank">
+        <span><i class="bi bi-whatsapp"></i></span>
+</a>
+    </div>
 
         <!-- Cursor Effect -->
         <div class="pointer bnz-pointer" id="bnz-pointer"></div>

@@ -11,7 +11,7 @@
                                         <a href="project-details.html" class="text-white text-uppercase">Builders of Excellence</a>
                                     </h4>
                                     <div class="details_link">
-                                        <a href="about.html">
+                                        <a href="contact.php">
                                             <span class="link_text">Get a Free Quote -
                                             </span>
                                             <span class="link_icon">Click Here</span>
@@ -38,7 +38,7 @@
                                             value your Dream</a>
                                     </h4>
                                     <div class="details_link">
-                                        <a href="about.html">
+                                        <a href="contact.php">
                                             <span class="link_text">Get a Free Quote -
                                             </span>
                                             <span class="link_icon">Click Here</span>
@@ -65,7 +65,7 @@
                                             true your Dream</a>
                                     </h4>
                                     <div class="details_link">
-                                        <a href="about.html">
+                                        <a href="contact.php">
                                             <span class="link_text">Get a Free Quote -
                                             </span>
                                             <span class="link_icon">Click Here</span>

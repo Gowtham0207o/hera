@@ -114,3 +114,10 @@ border: 2px solid #a6a182;
 		padding:20px!important;
 	}
   }
+ @media (min-width: 768px) {
+	#whatsapp span {
+		width: 90px!important;
+		height: 90px!important;
+		font-size: 60px!important;
+	}
+  }
