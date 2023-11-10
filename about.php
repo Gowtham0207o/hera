@@ -85,7 +85,7 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
             <div class="container">
                 <div class="video_post">
                     <div class="ytube_video">
-                        <iframe id="ytvideo" src="https://www.youtube.com/embed/JIQJzqGlr_E" allow="autoplay;"
+                        <iframe id="ytvideo" src="https://www.youtube.com/embed/ckFIeWsbTsg?si=xpUiT-zi2TqlzthO" allow="autoplay;"
                             allowfullscreen></iframe>
                         <div class="post_content">
                             <div class="ytplay_btn"><i class="bi bi-play-fill"></i></div>
@@ -95,8 +95,7 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                 </div>
             </div>
         </div>
-
-        <section class="funfacts pd-top-lg bg_2" id="funfacts">
+         <section class="funfacts pd-top-lg bg_2" id="funfacts">
             <div class="container">
                 <div class="row">
                     <div class="col">
@@ -250,13 +249,13 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
         </section>
 
         <!-- Our Team -->
-        <section class="team">
+        <!-- <section class="team">
             <div class="container">
                 <div class="section-header text-center has_line">
                     <h1 class="text-white">Our Team</h1>
                 </div>
                 <div class="team_inner">
-                    <!-- Swiper Team -->
+                    
                     <div class="swiper swiper_team">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
@@ -299,18 +298,17 @@ Welcome to Hera Construction, a leading construction company in Coimbatore, spec
                                 </div>
                             </div>
                         </div>
-                        <!-- Add Pagination -->
-                        <!-- <div class="swiper-pagination"></div> -->
+                      -->
 
                         <!-- Add Buttons -->
-                        <div class="swiper-navigation">
+                        <!-- <div class="swiper-navigation">
                             <div class="swiper-button-prev"><i class="bi bi-arrow-left"></i></div>
                             <div class="swiper-button-next"><i class="bi bi-arrow-right"></i></div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Testimonial -->
 
